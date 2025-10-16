@@ -1,0 +1,7 @@
+{
+  "name": "Final Copy of Siddiqa - Your Islamic Robot Friend v9",
+  "description": "An interactive, voice-controlled kiosk application for an Islamic exhibition. Users can listen to Surahs from the Quran, take a quiz on Islamic knowledge in Tamil, and hear Duas (supplications) for various occasions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
